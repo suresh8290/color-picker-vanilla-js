@@ -6,7 +6,7 @@ The background color of the page changes dynamically when a button is clicked.
 This project demonstrates the concept of **event delegation** in JavaScript.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here if deployed)
+https://suresh8290.github.io/color-picker-vanilla-js/
 
 ## 🛠 Tech Stack
 - HTML5
